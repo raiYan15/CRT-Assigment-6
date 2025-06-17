@@ -9,7 +9,6 @@ An eCommerce website is an online platform that enables businesses and consumers
 ✅ Product listings with smooth interactions
 ✅ Built with HTML, CSS, JavaScript — no backend required
 
-🚀 Live Demo: https://your-live-demo-link.com
 
 👨‍💻 Made by: Raiyan
 
